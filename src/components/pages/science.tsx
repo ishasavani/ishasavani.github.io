@@ -25,7 +25,7 @@ export default function SciencePage() {
           future water availability.
           <br />
           <br />
-          Funding: Norwegian Ministry of Foregin Affairs (2020-2023), Ruden AS
+          Funding: Norwegian Ministry of Foregin Affairs (2020-2023); Ruden AS
           (2023-present)
         </p>
         <hr />
@@ -35,7 +35,7 @@ export default function SciencePage() {
           </span>
           <br />
           <br />
-          Funding: Norwegian Ministry of Foregin Affairs (2020-2023), Ruden AS
+          Funding: Norwegian Ministry of Foregin Affairs (2020-2023); Ruden AS
           (2023-present)
         </p>
         <hr />
@@ -54,8 +54,8 @@ export default function SciencePage() {
         <p>
           <br />
           <br />
-          Funding: Norwegian Ministry of Foregin Affairs (2020-2023), Ruden AS
-          (2023-present), Water4All Horizon Porject (2024-present)
+          Funding: Norwegian Ministry of Foregin Affairs (2020-2023); Ruden AS
+          (2023-present); Water4All Horizon Porject (2024-present)
         </p>
         <hr />
         <p>
@@ -69,36 +69,53 @@ export default function SciencePage() {
           semi arid regions of south Asia, while trying to construe the
           atmosphere as critical system that undergoes phase transitions,
           analogous to classical and quantum fields.
+        <p>
           <br />
           <br />
+          Funding: Ruden AS and NILU, Norway (2024-present); Short Term Scientific Mission (at Oxford), COST Action (2023)
         </p>
         <hr />
         <p>
           <span className="italic">
-            Probabilistic interpretation of flow of two immiscible fluids (like
-            water and oil or water and air) in millimeter scale pore spaces.{' '}
+            Statistical Mechancis of flow of two immiscible fluids (like
+            water and oil or water and air) in millimeter scale pore spaces.
           </span>
-          We explored systems in steady-state in which flow patterns form and
-          break and the distribution of fluids in space changes in time in a way
-          that that average characteristics of the system remain the same. In
+           We explored physics of fluid transport at the pore-scale using steady-state simulations and theoretical investigation. The 2D pore network was analogous to a random-resistance network model. 
+           <br />
+           Steady-state refers to the state in which channels of the two immiscible fluids form and
+          break and the distribution of fluids in space changes with time in a way
+          that average characteristics of the system remain the same. In
           this way, time renders itself redundant and it becomes sufficient to
-          understand the state of the system in terms of the configuration of
-          fluids, rather than their path in time.
+          understand the state of the system in terms of the configuration (distribution of fluid bubbles), rather than their path in time. 
           <br />
           <br />
-          Funding:
+          Funding: Norwegian Univeristy of Science and Technology; Vista Scholarship (2012-2016)
         </p>
         <p>
           <hr />
           <span className="italic">
             On coupling between heat, charge and mass
           </span>
-          The coupling between heat and charge is used to Thermomechanical
-          expansion of silicon wafer under deep ultraviolet beam of light. This
+          Using simulations, coupling between heat and charge is used to measure thermomechanical
+          expansion of silicon wafer under deep ultraviolet (DUV) beam of light. This
           work looked into different configurations of giant photolithography
-          machines with the aim to accurately predict the printing of “marks” on
-          a silicon chip while the chip is expanding under the heat of DUV light
-          and the different arms of the system are moving simultaneously.
+          machines with the aim to accurately predict the time and position of “marks” being printed on
+          a silicon chip by a DUV laser beam, while the chip is expanding under the heat of DUV light
+          and the different parts of the system are, heating, cooling and moving simultaneously.
+          <br />
+          <br /> 
+          Funding: Advanced Semi Conductor Materials Lithography (ASML), Netherlands (2017-2020)
+        </p>
+
+          <p>
+          <hr />
+          <span className="italic">
+            On coupling between heat and charge
+          </span>
+          The thermodynamic coupling between heat and charge in Peltier elements, allows the converstion of heat to electricity in the presence of a temperature gradient. In this project, the flow of electric current is simulated in a thermoelectric generator (TEG) which is placed in the vicinity of a rotating carousel carrying molten silion at a silicon production plant at Elkem Salten, Norway. We modelled the production of power as the TEG harnesses heat from this molten metal, thereby using waste heat for generating electricity. 
+          <br />
+          <br />
+          Funding: Norwegian Univeristy of Science and Technology; Vista Scholarship (2012-2016)
         </p>
       </BasePage>
     </div>

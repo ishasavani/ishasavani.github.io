@@ -13,13 +13,14 @@ export default function AboutPage() {
             <p className="max-w-prose">
               I am a research scientist working at Ruden Water, a social
               enterprise based in Oslo, Norway. My research lies at the
-              intersection of water and climate. I am interested in bringing
+              intersection of water science and atmospheric dynamics. I am interested in bringing
               insights from theoretical physics and geology to governments,
               industry and the community in an effort to collaboratively
               integrate scientific knowledge and understanding of availability
               and distribution of transboundary resources to inform policies,
-              regulations and national and international laws. My journey
-              through time and scales of physics is illustrated in a nutshell in
+              regulations and national and international laws. My publications can be found here:
+              My journey
+              through time and scales of physics is summarized in
               the figure below:
             </p>
           </div>

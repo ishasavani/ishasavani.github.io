@@ -13,15 +13,41 @@ export default function AboutPage() {
             <p className="max-w-prose">
               I am a research scientist working at Ruden Water, a social
               enterprise based in Oslo, Norway. My research lies at the
-              intersection of water science and atmospheric dynamics. I am interested in bringing
-              insights from theoretical physics and geology to governments,
-              industry and the community in an effort to collaboratively
-              integrate scientific knowledge and understanding of availability
-              and distribution of transboundary resources to inform policies,
-              regulations and national and international laws. My publications can be found here:
-              My journey
-              through time and scales of physics is summarized in
-              the figure below:
+              intersection of water science and atmospheric dynamics. I am
+              interested in bringing insights from theoretical physics and
+              geology to governments, industry and the community in an effort to
+              collaboratively integrate scientific knowledge and understanding
+              of availability and distribution of transboundary resources to
+              inform policies, regulations and national and international laws.
+              My publications can be found pn my{' '}
+              <a
+                className="underline"
+                href="https://www.researchgate.net/profile/Isha-Savani"
+              >
+                {' '}
+                Research Gate profile
+              </a>
+              . My journey through time and scales of physics is summarized
+              below:
+              <br />
+              <br />
+              Bachelor's in Astronomy, Case Western Reserve University,
+              Cleveland, USA (2006-2010)
+              <br />
+              <br />
+              Master's in Particle Physics, University of Amsterdam, NIKHEF,
+              Netherlands (2010-2012)
+              <br />
+              <br />
+              PhD in Computational Physics (porous media), Norwegian University
+              of Science and Technology, Trondheim, Norway (2012-2016)
+              <br />
+              <br />
+              Functional design engineer at Advanced Semiconductor Materials
+              Lithography (ASML), Netherlands (2017-2020)
+              <br />
+              <br />
+              Research Scientist at Ruden AS, Oslo, Norway (2020-present)
             </p>
           </div>
         </div>

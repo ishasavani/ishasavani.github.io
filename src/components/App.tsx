@@ -3,6 +3,8 @@ import MainPage from './pages/mainPage'
 import PolicyPage from './pages/policy'
 import Root from './pages/root'
 import SciencePage from './pages/science'
+import AcademicFreedomPage from './pages/academicFreedom'
+import CollaborationPage from './pages/collaborations'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 
 import { Routes } from './navigation/routes'
@@ -37,11 +39,11 @@ const router = createBrowserRouter([
       },
       {
         path: Routes.academic_freedom,
-        element: <div>Under construction</div>
+        element: <AcademicFreedomPage />
       },
       {
         path: Routes.collaborations,
-        element: <div>Under construction</div>
+        element: <CollaborationPage />
       }
     ]
   }

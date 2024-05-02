@@ -5,13 +5,13 @@ import Root from './pages/root'
 import SciencePage from './pages/science'
 import AcademicFreedomPage from './pages/academicFreedom'
 import CollaborationPage from './pages/collaborations'
-import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+import { createHashRouter, RouterProvider } from 'react-router-dom'
 
 import { Routes } from './navigation/routes'
 import AboutPage from './pages/about'
 import CivicEngagementPage from './pages/civicEngagement'
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: '/',
     element: <Root />,

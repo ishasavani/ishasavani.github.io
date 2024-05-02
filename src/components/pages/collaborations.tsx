@@ -1,6 +1,4 @@
-import illustration from 'assets/one.jpg'
 import BasePage from 'components/BasePage'
-import { Routes } from 'components/navigation/routes'
 
 export default function CollaborationPage() {
   return (

@@ -14,27 +14,27 @@ export default function MainPage() {
         <p className="text-6xl w-fit pr-20">
           <ul className="list-none list-inside space-y-10">
             <li>
-              <a href={Routes.about}>About</a>
+              <a href={`#${Routes.about}`}>About</a>
             </li>
             <li>
               Research
               <ul className="list-inside list-['-'] space-y-8 pl-16 text-5xl pt-5">
                 <li>
-                  <a href={Routes.science}> Science</a>
+                  <a href={`#${Routes.science}`}> Science</a>
                 </li>
                 <li>
-                  <a href={Routes.policy}> Policy</a>
+                  <a href={`#${Routes.policy}`}> Policy</a>
                 </li>
               </ul>
             </li>
             <li>
-              <a href={Routes.civic_engagement}>Civic Engagement</a>
+              <a href={`#${Routes.civic_engagement}`}>Civic Engagement</a>
             </li>
             <li>
-              <a href={Routes.academic_freedom}>Academic Freedom</a>
+              <a href={`#${Routes.academic_freedom}`}>Academic Freedom</a>
             </li>
             <li>
-              <a href={Routes.collaborations}>Collaborations</a>
+              <a href={`#${Routes.collaborations}`}>Collaborations</a>
             </li>
           </ul>
         </p>

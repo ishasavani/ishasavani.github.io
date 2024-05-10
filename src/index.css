@@ -3,22 +3,22 @@
 @tailwind utilities;
 
 @layer base {
-    h1 {
-      @apply text-7xl lg:text-9xl;
-    }
-    h2 {
-      @apply text-4xl lg:text-7xl;
-    }
-    h3 {
-      @apply text-xl lg:text-3xl;
-    }
-    h4 {
-      @apply text-xl lg:text-2xl;
-    }
-    p {
-       @apply text-lg lg:text-xl;
-    }
-    hr {
-       @apply border-solid mx-10 my-6
-    }
+  h1 {
+    @apply text-7xl font-bold lg:text-9xl lg:font-normal;
+  }
+  h2 {
+    @apply text-4xl lg:text-7xl;
+  }
+  h3 {
+    @apply text-xl lg:text-3xl;
+  }
+  h4 {
+    @apply text-xl lg:text-2xl;
+  }
+  p {
+    @apply text-lg lg:text-xl;
+  }
+  hr {
+    @apply border-solid mx-10 my-6;
+  }
 }

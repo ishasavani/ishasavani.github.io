@@ -4,7 +4,7 @@ export default function AboutPage() {
   return (
     <div id="about-page">
       <div className="pt-10 flex flex-col w-full">
-        <h2 className="">About</h2>
+        <h2 className="self-center lg:self-start">About</h2>
         <div className="mt-10">
           <div className="flex flex-row flex-wrap justify-between self-stretch space-x-1 space-y-5 px-32">
             <div className="w-[670px] flex-none">

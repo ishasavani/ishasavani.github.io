@@ -1,4 +1,5 @@
 import BasePage from 'components/BasePage'
+import president_visit from 'assets/president.jpg'
 
 export default function CivicEngagementPage() {
   return (
@@ -14,6 +15,8 @@ export default function CivicEngagementPage() {
         informing my research methodology and bridging the gap between
         theoretical knowledge and the reality of the ground. Selected avenues of
         engagement are mentioned below:
+        <br />
+        <br />
         <h4>Hosting President of Somalia to Oslo Science Park </h4>
         <br />
         <br />
@@ -25,9 +28,13 @@ export default function CivicEngagementPage() {
           aquifers across Somalia, and on how to incorporate hydroclimatic
           extremes- droughts and floods, into sustainability quantification
           based on averaging over historic climate data.
+          <br />
         </span>
         <br />
-        Oslo Science Park, June 2024
+        <figure>
+          <img src={president_visit} />
+          <figcaption>Oslo Science Park, June 2024</figcaption>
+        </figure>
         <br />
         <br />
         <span className="italic font-bold">
@@ -36,12 +43,6 @@ export default function CivicEngagementPage() {
           demands in India
         </span>
         <br />
-        <br />
-        <span className="italic font-bold">
-          Introduction to Somalia deep groundwater project and geo-thermal
-          energy systems in the context of prevailing water scarcity and energy
-          demands in India
-        </span>
         <br />
         This talk was given at two different occasion in 2023 to the Indian
         Ambassador to Norway (B. Bala Bhaskar), and to representatives from the

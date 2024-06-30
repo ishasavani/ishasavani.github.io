@@ -17,13 +17,13 @@ export default function MainPage() {
             className="object-fill object-center"
           />
         </div>
-        <ul className="pl-20 md:pl-10 text-3xl md:text-4xl lg:text-6xl w-fit md:pr-20 list-none list-inside md:space-y-3 lg:space-y-10">
+        <ul className="pl-20 md:pl-10 text-2xl md:text-3xl lg:text-5xl w-fit md:pr-20 list-none list-inside md:space-y-3 lg:space-y-10">
           <li>
             <a href={`#${Routes.about}`}>About</a>
           </li>
           <li className="md:space-y-2 lg:space-y-8">
             Research
-            <ul className="list-inside list-['-'] pl-16 text-2xl md:text-3xl lg:text-5xl lg:pt-3">
+            <ul className="list-inside list-['-'] pl-16 text-xl md:text-2xl lg:text-5xl lg:pt-3">
               <li>
                 <a href={`#${Routes.science}`}> Science</a>
               </li>

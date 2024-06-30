@@ -17,6 +17,7 @@ export default function CivicEngagementPage() {
         engagement are mentioned below:
         <br />
         <br />
+        <br />
         <h4>Hosting President of Somalia to Oslo Science Park </h4>
         <br />
         <br />
@@ -33,7 +34,9 @@ export default function CivicEngagementPage() {
         <br />
         <figure>
           <img src={president_visit} />
-          <figcaption>Oslo Science Park, June 2024</figcaption>
+          <figcaption>
+            Oslo Science Park, June 2024 (President is 6th from the left.)
+          </figcaption>
         </figure>
         <br />
         <br />

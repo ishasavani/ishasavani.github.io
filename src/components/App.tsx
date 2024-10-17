@@ -10,6 +10,7 @@ import { createHashRouter, RouterProvider } from 'react-router-dom'
 import { Routes } from './navigation/routes'
 import AboutPage from './pages/about'
 import CivicEngagementPage from './pages/civicEngagement'
+import ContactPage from './pages/contact'
 
 const router = createHashRouter([
   {
@@ -44,6 +45,10 @@ const router = createHashRouter([
       {
         path: Routes.collaborations,
         element: <CollaborationPage />
+      },
+      {
+        path: Routes.contact,
+        element: <ContactPage />
       }
     ]
   }

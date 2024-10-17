@@ -7,7 +7,12 @@ export default function MainPage() {
       id="main-page"
       className="w-full flex flex-col space-y-10 md:space-y-20 self-stretch"
     >
-      <h1 className="self-center lg:self-start">Isha Savani</h1>
+      <div className="lg:self-start text-center space-y-1">
+        <h1>Isha Savani</h1>
+        <p className="text-right">
+          Computational Physics, Water, Climate and Activism
+        </p>
+      </div>
       <div className="flex flex-col lg:flex-row justify-between self-stretch space-x-3 space-y-5 md:px-16 lg:px-32 items-center">
         <div className="h-[200px] flex-grow md:h-auto w-full max-w-[670px] min-w-[400px] overflow-clip">
           <img

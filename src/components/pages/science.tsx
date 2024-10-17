@@ -47,7 +47,7 @@ export default function SciencePage() {
           </span>
           <br />
           <br />
-          The purpose of these simulations is to making sense of indications of
+          The purpose of these simulations is to make sense of indications of
           fresh ground water and to understand the flow paths and travel time of
           water across several layers of the earth on geological time-scales.
           Current geographical focus is Eastern Horn of Africa and coastal
@@ -60,8 +60,8 @@ export default function SciencePage() {
         <hr />
         <p>
           <span className="italic font-bold">
-            Statistical characterization of extreme rainfall with a focus on
-            semi-arid regions.
+            Statistical characterization of extreme rainfall in semi-arid
+            climate zones.
           </span>
           <br />
           <br />

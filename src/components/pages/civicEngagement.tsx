@@ -6,15 +6,13 @@ export default function CivicEngagementPage() {
     <div id="civic-engagement-page">
       <BasePage title="Civic Engagement">
         <p>
-          Civic engagement allows the coming together of different perspectives
-          in order to better understand the various dimensions of a problem of
-          common interest or concern. In the context of availability and
+          In the context of availability and
           distribution of critical resources such as water, I work with other
           academics, interested members of the community, governments and
-          industries so that the social, political, economical and scientific
-          dimensions of the problem can be better understood. This engagement
+          industries to better understand the social, political, economical and scientific
+          dimensions of the problem. This engagement
           inevitably leads to informing my research methodology and bridging the
-          gap between theoretical knowledge and the reality of the ground.
+          gap between theoretical knowledge and the reality on the ground.
           Selected avenues of engagement are mentioned below:
         </p>
         <br />
@@ -22,12 +20,12 @@ export default function CivicEngagementPage() {
         <br />
         <p>
           We had the opportunity to host the President of Somalia
-          (2022-present), His Excellency Hassan Sheikh Mohamud and his advisors,
-          along with the Norwegian Ambassador to Kenya Mr. Gunnar Andreas Holm,
+          (2022-present), Hassan Sheikh Mohamud and his advisors,
+          along with the Norwegian Ambassador to Kenya, Gunnar Andreas Holm,
           for an exiting discussion on the indications of fresh water in deep
           aquifers across Somalia, and on how to incorporate hydroclimatic
-          extremes- droughts and floods, into sustainability quantification
-          based on averaging over historic climate data.
+          extremes- droughts and floods into the quantification of sustainability
+          of deep-groundwater resources.
         </p>
         <figure className="py-4">
           <img src={president_visit} />
@@ -37,9 +35,17 @@ export default function CivicEngagementPage() {
         </figure>
         <br />
 
-        <h4>Talks and dialogues with governmental bodies</h4>
+        <h4>Engagement with governmental bodies</h4>
         <br />
         <p>
+            <span className="italic font-bold">
+              What would an undergraduate and graduate program in Deep Grounwater Science look like?
+            </span>
+            <br />
+            We were visited by the Government of Puntland in Oslo Science Park in October 2024. Now that the Somali peninsula has been mapped for deep-groundwater resources, we disucssed the implications of the project in addressing water scarcity, and emphasized the importance of integrating the scientific know-how within the local educational programs in Somali higher education.
+          <br />
+          <br />
+        
           <span className="italic font-bold">
             Introduction to Somalia deep groundwater project and geo-thermal
             energy systems in the context of prevailing water scarcity and
@@ -64,7 +70,7 @@ export default function CivicEngagementPage() {
           <br />
           <span className="italic font-bold">
             The multidisciplinary field of deep groundwater and indications of
-            water in Somali Peninsula
+            water in the Somali Peninsula
           </span>
           <br />
           To the Government of Puntland, Minister of Water and Minerals, March
@@ -119,7 +125,7 @@ export default function CivicEngagementPage() {
           <br />
           <br />
         </p>
-        <h4>Seminars and educational programs (knowledge sharing)</h4>
+        <h4>Seminars organized with the Somali diaspora in Norway</h4>
         <br />
         <p>
           <span className="italic font-bold">
@@ -127,7 +133,7 @@ export default function CivicEngagementPage() {
             diaspora
           </span>
           <br />
-          Oslo, August 2022, February 2023
+          Interkulturelt Museum Oslo, August 2022; Virtual webinar, February 2023; Oslo Science Park February 2024
           <br />
           <br />
           <span className="italic font-bold">
@@ -144,25 +150,50 @@ export default function CivicEngagementPage() {
         <br />
         <p>
           <span className="italic font-bold">
-            Dialogues on the meaning of sustainability with regards to water
+            Is flower-farming sustainable in the vicinity of Lake Naivasha, Kenya?
           </span>
           <br />
           With Fairtrade International, SLB (oil and gas industry), Mestergrønn
-          (leading flower industry of Norway), April 2023 – present
+          (leading flower industry of Norway), April 2023 - April 2025
           <br />
           <br />
+        </p>
+        <p>
           <span className="italic font-bold">
-            {' '}
             Dialogues on why humanitarian sector does not work with the private
-            sector to solve global challenges{' '}
+            sector to solve global challenges
           </span>
           <br />
           With International Federation of Red Cross
           <br />
-          Oslo, February 2022 (Dialogue took place at at Ruden headquarters)
+          Oslo Science Park, February 2022
           <br />
           <br />
+          </p>
+          <p>
+          <h4>Academic engagements</h4>
+          <br />
+      
+          <span className="italic font-bold">
+          Integrating hydrogeological and WEFE Nexus considerations in the EU Taxonomy
+          </span>
+          <br />
+          This talk was about informing the EU Taxonomy which is a key regulation in Europe that mandates large companies to report on their sustainability practices. Using the case study of flower farming in the Lake Naivasha basin in Kenya, we created a mathematical model using satellite data of key climate variables to compute a quantitative indicator of water sustainabiltiy. Talks on this project were given to policy researchers from the COST NexusNet collective, and to matehmaticians in the Norwegian Space Center throughout 2025.
+          <br />
+          <br />
+          </p>
+        <p>
+        <span className="italic font-bold">
+        Generalization of the Water Framework Directive{' '}
+        </span>
+        <br />
+        This talk was given to law academics from the COST OFFSource collective, on the introduction of unconventional water resources to Europe's key legislation on water- the Water Framework Directive.
+        <br />
+        Oslo Science Park, April 2025
+        <br />
+        <br />
         </p>
+                        
       </BasePage>
     </div>
   )

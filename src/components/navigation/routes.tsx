@@ -6,5 +6,6 @@ export enum Routes {
   civic_engagement = '/civic-engagement',
   academic_freedom = '/academic-freedom',
   collaborations = '/collaborations',
+  publications = '/publications',
   contact = '/contact'
 }

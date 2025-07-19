@@ -6,6 +6,41 @@ export default function SciencePage() {
       <BasePage title="Science Research">
         <p>
           <span className="italic font-bold">
+            Statistical characterization of extreme rainfall in semi-arid
+            climate zones
+          </span>
+          <br />
+          <br />
+          The distribution of extreme rainfall in space and time is marked by
+          characteristic distributions such as the power-law and exponential
+          type distributions. This project looks into drivers of extreme
+          rainfall in semi arid regions of south Asia, while trying to construe
+          the atmosphere as a critical system that undergoes phase transitions,
+          analogous to classical and quantum fields.
+          <br />
+          <br />
+          Funding: Ruden AS and NILU, Norway (2024-present); Short Term
+          Scientific Mission (at Oxford), COST Action (2023)
+        </p>
+        <hr />
+        <p>
+          <span className="italic font-bold">
+            Deep groundwater potential of Madagascar
+          </span>
+          <br />
+          <br />
+          The South of Madagascar is particularly water-scarce. In the
+          absence of sufficient surface fresh-water sources, in this project, we
+          explored the potential for deep groundwater in the sub-surface of
+          Madagascar through combining our expertise in petroleum engineering,
+          geology, remote sensing and computational physics.
+          <br />
+          <br />
+          Funding: UNICEF; Ruden AS (2025-present)
+        </p>
+        <hr />
+        <p>
+          <span className="italic font-bold">
             Groundwater recharge estimates of the Horn of Africa.
           </span>
           <br />
@@ -36,6 +71,14 @@ export default function SciencePage() {
           </span>
           <br />
           <br />
+          The structure of the earth marked by sinkholes, fractures, and other
+          land forms that extend from the surface to deep below, govern to what
+          extent rain-water will be absorbed. In this project, we map "karst"
+          rocks through satellite imagery to better understand the fraction of
+          groundwater recharge that will contribute to the replenishment of
+          deeper aquifers.
+          <br />
+          <br />
           Funding: Norwegian Ministry of Foreign Affairs (2020-2023); Ruden AS
           (2023-present)
         </p>
@@ -56,25 +99,6 @@ export default function SciencePage() {
           <br />
           Funding: Norwegian Ministry of Foreign Affairs (2020-2023); Ruden AS
           (2023-present); Water4All Horizon Project (2024-present)
-        </p>
-        <hr />
-        <p>
-          <span className="italic font-bold">
-            Statistical characterization of extreme rainfall in semi-arid
-            climate zones.
-          </span>
-          <br />
-          <br />
-          The distribution of extreme rainfall is marked by characteristic
-          distributions such as the power-law and exponential type
-          distributions. This project looks into drivers of extreme rainfall in
-          semi arid regions of south Asia, while trying to construe the
-          atmosphere as critical system that undergoes phase transitions,
-          analogous to classical and quantum fields.
-          <br />
-          <br />
-          Funding: Ruden AS and NILU, Norway (2024-present); Short Term
-          Scientific Mission (at Oxford), COST Action (2023)
         </p>
         <hr />
         <p>

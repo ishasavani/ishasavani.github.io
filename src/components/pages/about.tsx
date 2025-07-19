@@ -15,20 +15,11 @@ export default function AboutPage() {
               enterprise based in Oslo, Norway. My research lies at the
               intersection of water science and atmospheric dynamics. I am
               interested in bringing insights from theoretical physics and
-              geology to governments, industry and the community in an effort to
-              collaboratively integrate scientific knowledge and understanding
-              of availability and distribution of transboundary resources to
-              inform policies, regulations and national and international laws.
-              My publications can be found pn my{' '}
-              <a
-                className="underline"
-                href="https://www.researchgate.net/profile/Isha-Savani"
-              >
-                {' '}
-                Research Gate profile
-              </a>
-              . My journey through time and scales of physics is summarized
-              below:
+              geology to governments, industry and to the community in an effort
+              to integrate scientific knowledge and understanding of
+              availability and distribution of transboundary resources to inform
+              policies, regulations and national and international laws. My
+              journey through time and scales of physics is summarized below:
               <br />
               <br />
               Bachelor's in Astronomy, Case Western Reserve University,

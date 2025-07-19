@@ -10,6 +10,7 @@ export default function NavigationTopBar() {
       <a href={`#${Routes.civic_engagement}`}>Civic Engagement</a>
       <a href={`#${Routes.academic_freedom}`}>Academic Freedom</a>
       <a href={`#${Routes.collaborations}`}>Collaborations</a>
+      <a href={`#${Routes.publications}`}>Publications</a>
       <a href={`#${Routes.contact}`}>Contact</a>
     </div>
   )

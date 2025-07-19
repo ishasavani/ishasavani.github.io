@@ -6,7 +6,7 @@ export default function ContactPage() {
       <BasePage title="">
         <div className="space-y-10">
           <h3>You can find me here:</h3>
-          <p>Email: isha@rudenas.com </p>
+          <p>Email: isha.savani@gmail.com </p>
           <p>
             Office: <br />
             <div className="ml-5">

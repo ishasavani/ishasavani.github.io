@@ -36,12 +36,23 @@ export default function AcademicFreedomPage() {
           <hr />
         </p>
         <p>
+          <span className="italic font-bold">Book translation</span>
+          <br />
+          <br />
+          Translation of Dayamani Barla's book, {' '} 
+           <span className="italic">
+            Constitutional Writes of Adivasis in Danger,
+          </span> from Hindi to English (2025-present)
+        </p>
+        <hr />
+
+        <p>
           <span className="italic font-bold">
-            Talk: Where and how does academic freedom live?
+            Where and how does academic freedom live?
           </span>
           <br />
           <br />
-          On the occasion of the release of former Delhi University Professor,
+          On the occasion of the release of (late) Delhi University Professor,
           Dr. GN Saibaba, students Human Rights MSc program at University of
           Oslo organized a seminar with invited speakers Prof. Saibaba, Prof.
           Kenneth Bo Nielsen (UiO), and myself (InSAF India collective) to
@@ -57,15 +68,14 @@ export default function AcademicFreedomPage() {
         <hr />
         <p>
           <span className="italic font-bold">
-            Conference: Lessons in Indigeneity, the Samis and the adivasis
+            Lessons in Indigeneity, the Sámis and the adivasis
           </span>
           <br />
           <br />
           This conference brought together Scandinavian indigenous community
-          (Sami) together with indigenous communities from Jharkhand India
-          (Munda and Oraon). The talks and dialogues brought out similarities in
+          (Sámi) together with indigenous communities from Jharkhand India. The talks and dialogues brought out similarities in
           historical colonization and forms of present day soft and/or direct
-          violence experienced, in particular, by members of these communities.
+          violence experienced by the communities.
           Land rights (Fosen windmill case in Norway and Netarhat movement in
           India) and the meaning of solidarity were recurring themes around
           which discussions and exchange of histories took place throughout the

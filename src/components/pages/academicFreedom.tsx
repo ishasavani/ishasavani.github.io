@@ -1,4 +1,6 @@
 import BasePage from 'components/BasePage'
+import Caste_diagram from 'assets/Caste_diagram.jpg'
+
 
 export default function AcademicFreedomPage() {
   return (
@@ -18,6 +20,10 @@ export default function AcademicFreedomPage() {
           </span>
           <br />
           <br />
+            <figure className="py-4">
+          <img src={Caste_diagram} />
+        </figure>
+        <br />
           To me, academic freedom is questioning existing structures and norms
           in which we find ourselves operating- social, political, cultural
           and/or other. Academic freedom is synonymous to investigating the

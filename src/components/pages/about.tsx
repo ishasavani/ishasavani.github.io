@@ -11,8 +11,7 @@ export default function AboutPage() {
               <img height="444" width="624" src={illustration} />
             </div>
             <p className="max-w-prose">
-              I am a research scientist working at Ruden Water, a social
-              enterprise based in Oslo, Norway. My research lies at the
+              I am a Research Associate at the Institute of Oceanography and Applied Gepphysics, OGS in Trieste, Italy. I am based in Oslo, Norway and my research lies at the
               intersection of water science and atmospheric dynamics. I am
               interested in bringing insights from theoretical physics and
               geology to governments, industry and to the community in an effort
@@ -26,11 +25,11 @@ export default function AboutPage() {
               Cleveland, USA (2006-2010)
               <br />
               <br />
-              Master's in Particle Physics, University of Amsterdam, NIKHEF,
+              Master's in Particle Physics, Institute of Theoretical Physics and NIKHEF, University of Amsterdam,
               Netherlands (2010-2012)
               <br />
               <br />
-              PhD in Computational Physics (porous media), Norwegian University
+              PhD in Computational Physics (porous media), Department of Theoretical Physics (now Center of Excellence- PoreLab), Norwegian University
               of Science and Technology, Trondheim, Norway (2012-2016)
               <br />
               <br />
@@ -38,7 +37,7 @@ export default function AboutPage() {
               Lithography (ASML), Netherlands (2017-2020)
               <br />
               <br />
-              Research Scientist at Ruden AS, Oslo, Norway (2020-present)
+              Research Scientist at Ruden AS, Oslo, Norway (2021-2025)
             </p>
           </div>
         </div>

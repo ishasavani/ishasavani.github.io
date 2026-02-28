@@ -20,11 +20,11 @@ Submitted to UNICEF Madagascar, 2025
  <br />
  <br />
   
-<span className="font-bold">Groundwater recharge estimation challenges in regions of water and data scarcity: the case of the Horn of Africa</span>
+<span className="font-bold">Critical Raw Cartographies, Chapter Dust</span>
  <br />
 <span className="italic"> 
-Isha Savani, Elizabeth Quiroga Jordan, Dorottya Bartucz, Robbert van de Ven
-In press, 2025
+Florence Evans, Isha Savani, Melody Matin, Divya Nadkarni and Ciara Patten
+Casino Display, Casino Display in collaboration with University of Amsterdam, 2025
 </span>
  <br />
  <br />
@@ -35,7 +35,7 @@ and Somaliland</span>
  <br />
 <span className="italic">
 Elizabeth Quiroga Jordan, Claudia Bertoni, Manon van Goethem, Birgit Klink, Dorottya Bartucz, Isha Savani
-Submitted to FAO SWALIM, 2024
+Submitted to UN FAO SWALIM, 2024
 </span>
  <br />
  <br />

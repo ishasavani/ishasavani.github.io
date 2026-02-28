@@ -1,4 +1,6 @@
 import BasePage from 'components/BasePage'
+import climate from 'assets/climate.png'
+
 
 export default function SciencePage() {
   return (
@@ -6,20 +8,26 @@ export default function SciencePage() {
       <BasePage title="Science Research">
         <p>
           <span className="italic font-bold">
-            Statistical characterization of extreme rainfall in semi-arid
+            Statistical characterization of rainfall in semi-arid
             climate zones
           </span>
           <br />
           <br />
-          The distribution of extreme rainfall in space and time is marked by
+
+        <figure className="py-4">
+          <img src={climate} />
+        </figure>
+        <br />
+
+          The distribution of rainfall in space and time is marked by
           characteristic distributions such as the power-law and exponential
-          type distributions. This project looks into drivers of extreme
+          type distributions. This project looks into drivers of
           rainfall in semi arid regions of south Asia, while trying to construe
           the atmosphere as a critical system that undergoes phase transitions,
           analogous to classical and quantum fields.
           <br />
           <br />
-          Funding: Ruden AS and NILU, Norway (2024-present); Short Term
+          Funding: Ruden AS and NILU, Norway (2023-2025); Short Term
           Scientific Mission (at Oxford), COST Action (2023)
         </p>
         <hr />
@@ -36,7 +44,7 @@ export default function SciencePage() {
           geology, remote sensing and computational physics.
           <br />
           <br />
-          Funding: UNICEF; Ruden AS (2025-present)
+          Funding: UNICEF; Ruden AS (2025)
         </p>
         <hr />
         <p>
@@ -62,7 +70,7 @@ export default function SciencePage() {
           <br />
           <br />
           Funding: Norwegian Ministry of Foreign Affairs (2020-2023); Ruden AS
-          (2023-present)
+          (2023-2025)
         </p>
         <hr />
         <p>
@@ -80,27 +88,10 @@ export default function SciencePage() {
           <br />
           <br />
           Funding: Norwegian Ministry of Foreign Affairs (2020-2023); Ruden AS
-          (2023-present)
+          (2023-2025)
         </p>
         <hr />
-        <p>
-          <span className="italic font-bold">
-            Reservoir simulations of deep ground water using 3D geological
-            models
-          </span>
-          <br />
-          <br />
-          The purpose of these simulations is to make sense of indications of
-          fresh ground water and to understand the flow paths and travel time of
-          water across several layers of the earth on geological time-scales.
-          Current geographical focus is Eastern Horn of Africa and coastal
-          Europe.
-          <br />
-          <br />
-          Funding: Norwegian Ministry of Foreign Affairs (2020-2023); Ruden AS
-          (2023-present); Water4All Horizon Project (2024-present)
-        </p>
-        <hr />
+ 
         <p>
           <span className="italic font-bold">
             Statistical Mechanics of flow of two immiscible fluids (like water

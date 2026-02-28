@@ -1,10 +1,15 @@
 import BasePage from 'components/BasePage'
 import president_visit from 'assets/president.jpg'
+import civic from 'assets/civic.png'
 
 export default function CivicEngagementPage() {
   return (
     <div id="civic-engagement-page">
       <BasePage title="Civic Engagement">
+       <figure className="py-4">
+          <img src={civic} />
+        </figure>
+        <br />
         <p>
           In the context of availability and
           distribution of critical resources such as water, I work with other
@@ -30,11 +35,68 @@ export default function CivicEngagementPage() {
         <figure className="py-4">
           <img src={president_visit} />
           <figcaption>
-            Oslo Science Park, June 2024 (The president is 6th from the left.)
+            Oslo Science Park, June 2024
           </figcaption>
         </figure>
         <br />
 
+        <h4>Engagement with the community</h4>
+        <br />
+        <p>
+          <span className="italic font-bold">
+           Where did the water come from, and where did it go? 
+          </span>
+          <br />
+          Dialogues with MoreSomalia on the current scientitic understanding of deep groundwater resources in the Somali Penninsula, 2024-present
+          <br />
+          <br />
+          
+          <span className="italic font-bold">
+            East Africa deep groundwater project and the role of the Somali
+            diaspora
+          </span>
+          <br />
+          In collaboration with Somali diaspora in Norway and Sweden, we hosted a seminar at the Interkulturelt Museum Oslo, August 2022; followed by a virtual webinar in February 2023; and seminar at the Oslo Science Park February 2024
+          <br />
+          <br />
+          <span className="italic font-bold">
+            Designing a university readiness program to equip high-school students to pursue science and mathematics degrees afterward
+          </span>
+          <br />
+          In collaboration with the Pharo Foundation, we engaged with the University of Hargeisa, and the Global Water Center through 2023 and 2024
+          <br />
+          <br />
+        </p>
+        <p>
+          <h4>Academic engagements</h4>
+          <br />
+          <span className="italic font-bold">
+          Deep groundwater and the science-law-policy interface
+          </span>
+          <br />
+          Residency in Oslo from Jan 22-Jan 30
+          <br />
+          <br />
+      
+          <span className="italic font-bold">
+          Quantifying water sustainability by integrating hydrogeology and the Water Food Energy Nexus: implications for the EU Taxonomy
+          </span>
+          <br />
+          Talks on this project were given to policy researchers from the COST and the NexusNet collectives, to geoscientists at OGS and the University of Trieste, and to mathematicians at the Norwegian Space Center throughout 2025.
+          <br />
+          <br />
+          </p>
+        <p>
+        <span className="italic font-bold">
+        Generalization of the Water Framework Directive to include Deep Groundwater{' '}
+        </span>
+        <br />
+        This talk was given to law academics from the COST OFFSource collective, on the introduction of unconventional water resources to Europe's key legislation on water- the Water Framework Directive.
+        <br />
+        Oslo Science Park, April 2025
+        <br />
+        <br />
+        </p>
         <h4>Engagement with governmental bodies</h4>
         <br />
         <p>
@@ -42,7 +104,7 @@ export default function CivicEngagementPage() {
               What would an undergraduate and graduate program in Deep Grounwater Science look like?
             </span>
             <br />
-            We were visited by the Government of Puntland in Oslo Science Park in October 2024. Now that the Somali peninsula has been mapped for deep-groundwater resources, we disucssed the implications of the project in addressing water scarcity, and emphasized the importance of integrating the scientific know-how within the local educational programs in Somali higher education.
+            We hosted the Government of Puntland in Oslo Science Park in October 2024. Now that the Somali peninsula has been mapped for deep-groundwater resources, we disucssed the implications of the project in addressing water scarcity, and emphasized the importance of integrating the scientific know-how within the local educational programs in Somali higher education.
           <br />
           <br />
         
@@ -125,27 +187,6 @@ export default function CivicEngagementPage() {
           <br />
           <br />
         </p>
-        <h4>Seminars organized with the Somali diaspora in Norway</h4>
-        <br />
-        <p>
-          <span className="italic font-bold">
-            East Africa deep groundwater project and the role of the Somali
-            diaspora
-          </span>
-          <br />
-          Interkulturelt Museum Oslo, August 2022; Virtual webinar, February 2023; Oslo Science Park February 2024
-          <br />
-          <br />
-          <span className="italic font-bold">
-            Designing a university readiness program in water resource
-            characterization and management
-          </span>
-          <br />
-          To be designed with input from academics, East African community and
-          Pharo Foundation, and to be implemented in East Africa. 2023-present
-          <br />
-          <br />
-        </p>
         <h4>Dialogues with private sector and humanitarian sectors</h4>
         <br />
         <p>
@@ -170,29 +211,7 @@ export default function CivicEngagementPage() {
           <br />
           <br />
           </p>
-          <p>
-          <h4>Academic engagements</h4>
-          <br />
-      
-          <span className="italic font-bold">
-          Integrating hydrogeological and WEFE Nexus considerations in the EU Taxonomy
-          </span>
-          <br />
-          This talk was about informing the EU Taxonomy which is a key regulation in Europe that mandates large companies to report on their sustainability practices. Using the case study of flower farming in the Lake Naivasha basin in Kenya, we created a mathematical model using satellite data of key climate variables to compute a quantitative indicator of water sustainabiltiy. Talks on this project were given to policy researchers from the COST NexusNet collective, and to matehmaticians in the Norwegian Space Center throughout 2025.
-          <br />
-          <br />
-          </p>
-        <p>
-        <span className="italic font-bold">
-        Generalization of the Water Framework Directive{' '}
-        </span>
-        <br />
-        This talk was given to law academics from the COST OFFSource collective, on the introduction of unconventional water resources to Europe's key legislation on water- the Water Framework Directive.
-        <br />
-        Oslo Science Park, April 2025
-        <br />
-        <br />
-        </p>
+    
                         
       </BasePage>
     </div>

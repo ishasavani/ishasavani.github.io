@@ -12,39 +12,35 @@ export default function CollaborationPage() {
             <span className="text-3xl">Science </span>
             <br />
             <br />
-            Yvan Joseph Orsolini, NILU Norway; Odd Anderson, Sintef, Norway;
-            Horizon Water4All consortium- Claudia Bertoni, University of
-            Trieste, Jordan Phethean, University of Derby; Elizabeth Quiroga
-            Jordan, Dorrotya Bartucz, Birgit Klink, Ruden Water, Norway.
+            Yvan Joseph Orsolini, NILU Norway; Claudia Bertoni, University of
+            Trieste; Elizabeth Quiroga Jordan, Dorrotya Bartucz, Birgit Klink, Ruden Water, Norway.
           </li>
           <li>
             <span className="text-3xl"> Policy </span>
             <br />
             <br />
             Sarah Milliken (landscape science and policy), Univeristy of
-            Greenwich, UK; Reza Lahidji, Future Horizon, Norway; Emma Mazzotta
-            (political science), OGS, Italy; Stefano Burchi, Gabriel Eckstein,
-            International Association for Water Law (AIDA).
+            Greenwich, UK; Emma Mazzotta (political science), OGS, Italy; Mohit Khubchandani (International environmental and climate change law), Leiden University, Netherlands;
+            International Association for Water Law (AIDA) group.
           </li>
           <li>
             <span className="text-3xl"> Civic Engagement</span>
             <br />
             <br />
-            Francesca Beauseng, Pharo foundation (UK and Somaliland); Elizabeth
-            Quiroga Jordan, Helene Ruden, and Fridtjov Ruden from Ruden Water
-            Oslo, Norway; Mahamed Farah Siad, Bode, Norway.
+            Issa Ismail Issa from MoreSomalia (Denmark); Francesca Beauseng, Pharo foundation (UK and Somaliland); Elizabeth
+            Quiroga Jordan, Ruden Water (Oslo)
           </li>
           <li>
             <span className="text-3xl">Academic Freedom</span>
             <br />
             <br />
             Tuula Sharma Vassvik, Oslo Met, Norway; Girma Parris, Case Western
-            Reserve University, USA; Jerome Kujur and Rose Xaxa (activists and
-            scholars associated with Netarhat movement, India); Dayamani Barla
-            (Iron Lady of India)
+            Reserve University, USA; Jerome Kujur, Rose Xaxa and Dayamani Barla (activists and
+            scholars associated with land-rights movements in India).
+            
           </li>
           <li>
-            <span className="text-3xl"> Science-philosophy </span>
+            <span className="text-3xl"> Equitable distribution of resources and transboundary solidarity </span>
             <br />
             <br />
             Divya Nadkarni, University of Amsterdam (cultural analysis /

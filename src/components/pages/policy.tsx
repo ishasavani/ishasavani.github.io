@@ -1,9 +1,30 @@
 import BasePage from 'components/BasePage'
+import wind from 'assets/wind.png'
+
 
 export default function PolicyPage() {
   return (
     <div id="policy-page">
       <BasePage title="Policy Research">
+       <figure className="py-4">
+          <img src={wind} />
+        </figure>
+        <br />
+         <p>
+          <span className="italic font-bold">Critical Raw Cartographies </span>
+          <br />
+          <br />
+          Through the examination of circum-globular economic supply chains,
+          history and memory of mining in Europe and Greenland, EU’s Critical
+          Raw Material Act launched in 2023, is reviewed to reveal deeper
+          meanings of “green” in the light of Europe’s energy transition
+          ambitions.
+          <br />
+          <br />
+          Funding: University of Amsterdam; Ruden AS (2024)
+        </p>
+         <br />
+        <br />
         <p>
           <span className="italic font-bold">
             Pioneering water taxonomy using satellite data: the case of rose
@@ -27,48 +48,19 @@ export default function PolicyPage() {
         <hr />
         <p>
           <span className="italic font-bold">
-            Revisiting legal water frameworks
+            Revisiting Water Directives
           </span>
           <br />
           <br />
-          We are re-visitng Europe's key legislation, the Water Framework
-          Directive, and regulation EU Taxonomy and the Marine Strategy Framework directive to
-          enable future management and equitable distribution of offshore and
-          onshore deep groundwater resources that were not well known at the
-          time of enactment of these laws and regulations.
+          We are re-visitng Europe's key legislations, the Water Framework
+          Directive and the Marine Strategy Framework directive with the aim to revise the directvies in light of current scientific insight. Any future governance of these resources reqiures prior undersanding. Any future equitable distributin of these water resources and responsible mangagement is emboldened by well informed governance models.   
           <br />
           <br />
-          Funding: Water4All Horizon Project (2024-2027)
+          Funding: Water4All Horizon Project (2024-present)
         </p>
         <hr />
-        <p>
-          <span className="italic font-bold">
-            Economic policy and deep groundwater
-          </span>
-          <br />
-          <br />
-          What kind of sources of water are available to humanity and nature,
-          and what is the life of water as an economic commodity? The framing of
-          economic regulations must take into account the climatic context and the 
-          long term costs vs benefits of harvesting alternative water resources.
-          <br />
-          <br />
-          Grant: Water4All Horizon Project (2024-2027)
-        </p>
-        <hr />
-        <p>
-          <span className="italic font-bold">Critical Raw Cartographies </span>
-          <br />
-          <br />
-          Through the examination of circum-globular economic supply chains,
-          history and memory of mining in Europe and Greenland, EU’s Critical
-          Raw Material Act launched in 2023, is reviewed to reveal deeper
-          meanings of “green” in the light of Europe’s energy transition
-          ambitions.
-          <br />
-          <br />
-          Funding: University of Amsterdam; Ruden AS (2024)
-        </p>
+    
+
       </BasePage>
     </div>
   )

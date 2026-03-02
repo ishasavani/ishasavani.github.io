@@ -45,9 +45,9 @@ export default function AcademicFreedomPage() {
           <span className="italic font-bold">Book translation</span>
           <br />
           <br />
-          Translation of Dayamani Barla's book, {' '} 
+          I am currently helping out with the translation of Dayamani Barla's book, {' '} 
            <span className="italic">
-            Constitutional Writes of Adivasis in Danger,
+            Constitutional Rights of Adivasis in Danger,
           </span> from Hindi to English (2025-present)
         </p>
         <hr />

@@ -35,8 +35,7 @@ export default function CollaborationPage() {
             <br />
             <br />
             Tuula Sharma Vassvik, Oslo Met, Norway; Girma Parris, Case Western
-            Reserve University, USA; Jerome Kujur, Rose Xaxa and Dayamani Barla (activists and
-            scholars associated with land-rights movements in India).
+            Reserve University, USA; InSAF India Collective.
             
           </li>
           <li>
